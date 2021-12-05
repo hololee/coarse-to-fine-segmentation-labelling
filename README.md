@@ -20,3 +20,7 @@ Two type of model included in `./models`
 
 2. ``./model/UNet_weight_connection.py``  
 **UNet** model using transpose convolution with weighted skip connection.
+
+
+## Architecture  
+![whole architecture](./imgs/architecture.png)
