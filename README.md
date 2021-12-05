@@ -24,3 +24,11 @@ Two type of model included in `./models`
 
 ## Architecture  
 ![whole architecture](./imgs/architecture.png)
+
+
+## Result   
+### 1. bean leaf result   
+![bean result](./imgs/slice3.png)   
+
+### 2. paprika disease result   
+![paprika result](./imgs/slice4.png)
