@@ -1,0 +1,7 @@
+torch==1.8.1
+torchvision==0.9.1
+scipy==1.6.3
+opencv-python==4.5.2.54
+numpy==1.19.2
+matplotlib==3.4.2
+imageio==2.9.0
