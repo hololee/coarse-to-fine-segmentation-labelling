@@ -1,4 +1,4 @@
-# Coarse to Fine Segmentation Labeling
+# CFS-Label: A Pixel-Level Coarse-to-Fine Segmentation Labelling Algorithm
 
 This repo only explains the mechanism of [this paper](http://)   
 Just core scripts are extracted by origin project.
