@@ -23,7 +23,7 @@ Two type of model included in `./models`
 
 
 ## Architecture  
-![whole architecture](./imgs/architecture.png)
+![whole architecture](./imgs/arch.png)
 
 
 ## Result   
