@@ -8,11 +8,6 @@ Fine segmentation labelling tasks are time consuming and typically require a gre
 This repo only explains the mechanism of [this paper](http://)   
 Just core scripts are extracted by origin project.
 
-~~~
-Whole project cannot be attached this repo because of some project contract.  
-So if you want to get more information, contact to e-mail.
-~~~
-
 ## Environments
 See `requirements.txt`
 
