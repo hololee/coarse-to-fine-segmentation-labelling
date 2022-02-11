@@ -11,6 +11,11 @@ Just core scripts are extracted by origin project.
 ## Environments
 See `requirements.txt`
 
+## Dataset
+- Bean leaf dataset : `data/bean_leaf`
+- Circle dataset : `data/circle_noise`
+- Paprika disease dataset : `data/paprika_disease`
+
 ## Models
 Two type of model included in `./models`
 
